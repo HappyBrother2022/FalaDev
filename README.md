@@ -36,16 +36,16 @@ FalaDev is a social network for developers, designers, students and anyone who w
 # Installation
 
 ```bash
-# Clone o repositório
+# clone the repository
 $ git clone https://github.com/Ricmaloy/FalaDev.git
 
-# Entre no repositório
+# enter the repository
 $ cd FalaDev
 
-# Instale as dependências
+# install the dependencies
 $ yarn install
 
-# Execute a aplicação
+# run the application
 $ yarn start
 ```
 
