@@ -17,14 +17,12 @@
 
 
 #
-# Sobre
+# About
 
-FalaDev é uma rede social para desenvolvedores, desenvolvedoras, designers, estudantes e qualquer pessoa que queira interagir ou compartilhar conhecimento.
-Nela qualquer pessoa pode se cadastrar, fazer um post e interagir com outras pessoas seja curtindo ou comentando seus posts, trocando mensagens e mais !
-Tal aplicação é fruto de um projeto de estudos 🚀
+FalaDev is a social network for developers, designers, students and anyone who wants to interact or share knowledge. In it anyone can register, make a post and interact with other people by liking or commenting on their posts, exchanging messages and more! Such an application is the result of a study project 🚀
 
 
-# Tecnologias utilizadas
+# Technologies used
 
 <div style="display:flex!important;">
   <a href="https://firebase.google.com/?hl=pt"><img align="center" alt="Hideki-React" height="30" width="34" src="https://img.icons8.com/color/480/firebase.png"> - Firebase</a><br/>
@@ -35,7 +33,7 @@ Tal aplicação é fruto de um projeto de estudos 🚀
   <a href="https://vercel.com/"><img align="center" alt="Vercel" height="35" width="35" src="https://i.imgur.com/qNVenEn.png"> - Vercel</a><br/>
 </div>
     
-# Instalação
+# Installation
 
 ```bash
 # Clone o repositório
@@ -51,33 +49,23 @@ $ yarn install
 $ yarn start
 ```
 
-# Aplicação
-O FalaDev já está disponível para acesso através do [link](https://fala-dev.vercel.app/), corre lá e comece a interagir com outras pessoas agora mesmo!  🚀
+# Application
+FalaDev is now available for access through [link](https://fala-dev.vercel.app/), run there and start interacting with other people right now! 🚀
 
-# O que vem por aí
+# What's next
 
-### 🚧 features mapeadas para desenvolvimento 🚧
+### 🚧 features mapped for development 🚧
 
-  🔲 - Página de conexões e lógica de adicionar uma conexão
+  🔲 - Connections page and logic of adding a connection
   
-  🔲 - Página e Dropdown de notificações e lógica de notificações
+  🔲 - Notifications Page and Dropdown and Notification Logic
   
-  🔲 - Página de mensagens e lógica de mensageria
+  🔲 - Messaging page and messaging logic
   
-  🔲 - Página de posts salvos e lógica de salvar post
+  🔲 - Saved posts page and save post logic
   
-  🔲 - Página para as notícias, redirecionamento e lógica de novas notícias
+  🔲 - Page for the news, redirection and new news logic
   
-  🔲 - Página de estatísticas e gamefication da plataforma
+  🔲 - Platform statistics and gamefication page
 
-  🔲 - Aprimorar a responsividade da aplicação para vários tipos de tela
-
-# Contatos
-
- Você vai me encontrar em qualquer uma das redes sociais abaixo 🍻
-
-<a href = "mailto: ricardozamboni021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" margin-right="10px"></a>
-<a href="https://www.linkedin.com/in/ricardo-zamboni-3906471b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/Ricmaloy" target="_blank"><img src="https://github.com/Alexandrehideki13/Alexandrehideki13/blob/main/GistGithub.jpeg" height=29 target="_blank"></a>
-
-<p align="center">Made with 🧡 by Ricardo Zamboni Silva</p>
+  🔲 - Improve application responsiveness to various screen types
